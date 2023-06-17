@@ -1,7 +1,7 @@
 import styled from "@emotion/styled";
 
 export const Div = styled.div`
-  width: 300px;
+  width: 500px;
   margin: 0 auto;
   padding-right: 15px;
   padding-left: 15px;
@@ -12,11 +12,11 @@ export const Div = styled.div`
 export const PrimaryTitle = styled.h1`
   margin-bottom: 20px;
   text-align: center;
-  color: blue;
+  color: darkblue;
 `;
 
 export const SecondaryTitle = styled.h2`
   margin-bottom: 20px;
   text-align: center;
-  color: blue;
+  color: darkblue;
 `;
